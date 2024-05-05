@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML File</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Website</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">About Us</a> |
+        <a href="#">Contact</a>
+    </nav>
+    <section>
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula mauris vitae augue vehicula, non finibus magna interdum. In hac habitasse platea dictumst. Curabitur at magna et justo ultrices pellentesque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer vel leo eu orci eleifend rhoncus. Proin ullamcorper, urna ac suscipit varius, elit justo tincidunt nisi, nec molestie urna ipsum ut tellus. Vivamus accumsan sapien sed lorem egestas, id euismod neque ultrices.</p>
+    </section
