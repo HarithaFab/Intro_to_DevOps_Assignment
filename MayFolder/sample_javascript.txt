@@ -20,3 +20,5 @@ switch (new Date().getDay()) {
   case 6:
     day = "Saturday";
 }
+
+// adding comments
